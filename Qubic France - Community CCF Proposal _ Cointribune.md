@@ -91,7 +91,7 @@ Traffic proof: Cointribune audience records since May (see Similarweb).
 
 ## 冲刺周期
 - **2025 年 5 月 28 日 – 7 月 28 日**  
-- **资金请求**：**208 亿 QUBIC**（每十亿 1200 美元，共约 25 000 USDT）  
+- **资金请求**：**208 亿 QUBIC**（每十亿 1400 美元，共约 28 000 USDT）(所有额外费用将退还给 CCF)  
 - **资金接收钱包**：`VIOXIFANHGOUACKMYWNBCZQCQMZCLNMDRPTYIAVQZFFEAKNGYFIHDCWCYWMF`
 
 ### 可选项
@@ -106,7 +106,7 @@ Traffic proof: Cointribune audience records since May (see Similarweb).
 ---
 
 ### 摘要
-请求 **208 亿 QUBIC**（约 25 000 美元，差额返还 CCF），用于一次高影响力付费媒体冲刺，重点聚焦 **Cointribune**。
+请求 **208 亿 QUBIC**（约 28 000 美元，差额返还 CCF），用于一次高影响力付费媒体冲刺，重点聚焦 **Cointribune**。
 
 * 交付内容  
   - 网站首页横幅 + CTA  
