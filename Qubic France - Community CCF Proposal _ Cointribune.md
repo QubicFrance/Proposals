@@ -2,14 +2,14 @@
 
 ## Sprint Details
 - **Sprint Duration**: **4ht June 2025 –  4th September 2025**  
-- **Funding Request**: **20.8 billion QUBIC** @ $1 400 / billion (~ $25 000 USDT)(all extra cost will be refund CCF)
+- **Funding Request**: **20.8 billion QUBIC** @ $1 400 / billion (~ $28 000 USDT)(all extra cost will be refund CCF)
 - **Wallet**: `VIOXIFANHGOUACKMYWNBCZQCQMZCLNMDRPTYIAVQZFFEAKNGYFIHDCWCYWMF`
 
 ### Available Options
 | Option | Description |
 | ------ | ----------- |
 | **0** | No, I don’t want |
-| **1** | Yes, approve the budget of **21.5 billion QUBIC** |
+| **1** | Yes, approve the budget of **20.8 billion QUBIC** |
 
 **Use of Funds**: Paid media exposure only — no internal salaries or operations  
 **Project Team**: **Qubic France**, *RaZiaH* (project lead)
@@ -17,7 +17,7 @@
 ---
 
 ### TL;DR
-Requesting **21.5 billion QUBIC** (~ $25 k; any price difference will be returned to CCF) for a high-impact, paid-media sprint on **Cointribune**—one of the most influential crypto media platforms.
+Requesting **20.8 billion QUBIC** (~ $28 k; any price difference will be returned to CCF) for a high-impact, paid-media sprint on **Cointribune**—one of the most influential crypto media platforms.
 
 * Key deliverables  
   - Homepage banner + CTA  
@@ -98,7 +98,7 @@ Traffic proof: Cointribune audience records since May (see Similarweb).
 | 选项 | 说明 |
 | ---- | ---- |
 | **0** | 否，我不支持 |
-| **1** | 是，批准 **215 亿 QUBIC** 预算 |
+| **1** | 是，批准 **208 亿 QUBIC** 预算 |
 
 **资金用途**：仅用于外部媒体曝光，不用于团队薪资或运营  
 **项目团队**：**Qubic France**，*RaZiaH*（负责人）
@@ -106,7 +106,7 @@ Traffic proof: Cointribune audience records since May (see Similarweb).
 ---
 
 ### 摘要
-请求 **215 亿 QUBIC**（约 25 000 美元，差额返还 CCF），用于一次高影响力付费媒体冲刺，重点聚焦 **Cointribune**。
+请求 **208 亿 QUBIC**（约 25 000 美元，差额返还 CCF），用于一次高影响力付费媒体冲刺，重点聚焦 **Cointribune**。
 
 * 交付内容  
   - 网站首页横幅 + CTA  
