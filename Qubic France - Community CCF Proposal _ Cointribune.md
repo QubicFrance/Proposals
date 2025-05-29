@@ -2,7 +2,7 @@
 
 ## Sprint Details
 - **Sprint Duration**: **4ht June 2025 –  4th September 2025**  
-- **Funding Request**: **20.8 billion QUBIC** @ $1 200 / billion (~ $25 000 USDT)  
+- **Funding Request**: **20.8 billion QUBIC** @ $1 400 / billion (~ $25 000 USDT)(all extra cost will be refund CCF)
 - **Wallet**: `VIOXIFANHGOUACKMYWNBCZQCQMZCLNMDRPTYIAVQZFFEAKNGYFIHDCWCYWMF`
 
 ### Available Options
