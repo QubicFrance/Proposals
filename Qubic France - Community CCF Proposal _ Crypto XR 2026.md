@@ -19,6 +19,49 @@
 ### TL;DR
 Requesting **9.9 billion QUBIC** (~ $22,5 k; any price difference will be returned to CCF) for a high-impact.
 
+# 🚀 Why Qubic Should Attend
+
+- **Unmatched Visibility in the French Market**  
+  CryptoXR gathered over 6,800 attendees in 2025. Qubic’s presence would strengthen its branding in one of the most crypto-active regions in Europe.
+
+- **Direct Engagement with Target Audiences**  
+  The event splits between B2B (Day 1) and B2C (Day 2). We can connect with investors, exchanges, developers, and community members.
+
+- **Workshops & Speaker Opportunities**  
+  Qubic can propose a live demo or talk around its unique architecture (*Aigarth, Computors, Useful PoW*).
+
+- **Qubic France Community Activation**  
+  We can mobilize our local contributors, attract new ambassadors, and distribute educational and promotional materials.
+
+---
+
+# 🔍 What’s in It for Qubic?
+
+1. **Brand Elevation & Market Leadership**  
+   Participating at France’s foremost Web3 & AI event positions Qubic as an accessible, forward-thinking player in the national and European crypto ecosystem.  
+   It amplifies our visibility among key stakeholders—from institutional partners to grassroots enthusiasts.
+
+2. **Targeted Networking & Business Development**  
+   CryptoXR’s dual B2B and B2C format enables us to engage with investors, exchanges, infrastructure providers, and crypto-curious individuals—maximizing impact across our audience spectrum.
+
+3. **Thought Leadership & Product Showcase**  
+   By delivering a talk or workshop, Qubic can highlight innovations like *Aigarth* or *Useful PoW*.  
+   A live demo could create real-time engagement.
+
+4. **Community Activation & Ambassador Recruitment**  
+   We can energize the French-speaking community, reward contributors, and onboard new members interactively.
+
+5. **Media Exposure & Brand Recall**  
+   CryptoXR offers built-in marketing channels to extend Qubic’s reach through event videos, interviews, and promotional content.
+
+6. **ROI Through Engagement & Conversion**  
+   Affordable packages and immersive formats ensure impactful exposure and strong return on investment.
+
+---
+
+> **“Participating in CryptoXR 2026 offers Qubic a low-cost, high-impact opportunity to elevate our brand in the French and European crypto ecosystem. Through strategically placed engagement—booth presence, live demo, workshop, and community activation—we can generate high-value leads, deepen community bonds, attract ambassadors, and secure lasting visibility via media and event coverage.”**
+
+
 ### Cost Breakdown
 | Item | Cost (USD) |
 |------|------------|
@@ -44,6 +87,7 @@ Requesting **9.9 billion QUBIC** (~ $22,5 k; any price difference will be return
 These goals align with QUBIC’s objectives of ecosystem growth, stakeholder engagement, and technology adoption.
 
 *All funds go to external paid exposure. No team salaries or overhead.*
+
 
 
 
