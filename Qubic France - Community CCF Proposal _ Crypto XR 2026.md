@@ -17,7 +17,7 @@
 ---
 
 ### TL;DR
-Requesting **9.9 billion QUBIC** (~ $22,5 k; any price difference will be returned to CCF) for a high-impact, paid-media sprint on **Cointribune**—one of the most influential crypto media platforms.
+Requesting **9.9 billion QUBIC** (~ $22,5 k; any price difference will be returned to CCF) for a high-impact.
 
 ### Cost Breakdown
 | Item | Cost (USD) |
@@ -30,6 +30,20 @@ Requesting **9.9 billion QUBIC** (~ $22,5 k; any price difference will be return
 | 100 million QUBIC Giveaway | SPOT |
 | **Total** | **22500.00 + 100M QUBIC** |
 
+## Goals & KPIs
+| Goal | Target | KPI |
+|------|--------|-----|
+| Brand Visibility | Engage 6,000+ attendees | Booth visits tracked via QR code scans |
+| Wallet Registrations | minimum of 300 new QUBIC wallets | Number of wallets registered via giveaway |
+| Networking | Connect with 5+ key industry figures | Meetings with figures like Austin Arnold, Veronica Hash, etc. |
+| Social Media Growth | 500+ new followers | Track mentions and followers on platforms like X |
+| Event Invitations | Aim to Secure future event invites | Documented invitations received |
+| CEX Relationships | Engage 1 or more US CEX representatives | Follow-up meetings scheduled post-event |
+| Visual Content | 50+ photos/videos | Content posted on QUBIC’s social channels |
+
+These goals align with QUBIC’s objectives of ecosystem growth, stakeholder engagement, and technology adoption.
+
 *All funds go to external paid exposure. No team salaries or overhead.*
+
 
 
