@@ -61,6 +61,16 @@ Requesting **9.9 billion QUBIC** (~ $22,5 k; any price difference will be return
 
 > **“Participating in CryptoXR 2026 offers Qubic a low-cost, high-impact opportunity to elevate our brand in the French and European crypto ecosystem. Through strategically placed engagement—booth presence, live demo, workshop, and community activation—we can generate high-value leads, deepen community bonds, attract ambassadors, and secure lasting visibility via media and event coverage.”**
 
+# 📦 Proposed Setup
+
+| Element                     | Description                                                                 |
+|-----------------------------|-----------------------------------------------------------------------------|
+| 🎪 **Booth / Stand**        | A branded Qubic space to onboard, demo, and discuss. The stand will reusable for differents events in Europe with a short cost than the first one.                        |
+| 🎤 **Speaker Slot / Workshop** | Presentation of the Qubic ecosystem, roadmap, or Aigarth integration        |
+| 👥 **Delegation**           | 3–5 key members of Qubic France to represent and coordinate onsite efforts  |
+| 📸 **Media Coverage**       | Event video recap, interviews, and post-event content                       |
+| 🧩 **Merchandising**        | Stickers, flyers, shirts, or QR codes to join Discord / try demos            |
+
 
 ### Cost Breakdown
 | Item | Cost (USD) |
@@ -73,20 +83,12 @@ Requesting **9.9 billion QUBIC** (~ $22,5 k; any price difference will be return
 | 100 million QUBIC Giveaway | SPOT |
 | **Total** | **22500.00 + 100M QUBIC** |
 
-## Goals & KPIs
-| Goal | Target | KPI |
-|------|--------|-----|
-| Brand Visibility | Engage 6,000+ attendees | Booth visits tracked via QR code scans |
-| Wallet Registrations | minimum of 300 new QUBIC wallets | Number of wallets registered via giveaway |
-| Networking | Connect with 5+ key industry figures | Meetings with figures like Austin Arnold, Veronica Hash, etc. |
-| Social Media Growth | 500+ new followers | Track mentions and followers on platforms like X |
-| Event Invitations | Aim to Secure future event invites | Documented invitations received |
-| CEX Relationships | Engage 1 or more US CEX representatives | Follow-up meetings scheduled post-event |
-| Visual Content | 50+ photos/videos | Content posted on QUBIC’s social channels |
+
 
 These goals align with QUBIC’s objectives of ecosystem growth, stakeholder engagement, and technology adoption.
 
 *All funds go to external paid exposure. No team salaries or overhead.*
+
 
 
 
