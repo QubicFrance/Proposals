@@ -67,7 +67,7 @@ Requesting **11 billion QUBIC** (~ $22,5 k; any price difference will be returne
 |-----------------------------|-----------------------------------------------------------------------------|
 | 🎪 **Booth / Stand**        | A branded Qubic space to onboard, demo, and discuss. The stand will reusable for differents events in Europe with a short cost than the first one.                        |
 | 🎤 **Speaker Slot / Workshop** | Presentation of the Qubic ecosystem, roadmap, or Aigarth integration        |
-| 👥 **Delegation**           | 3–5 key members of Qubic France to represent and coordinate onsite efforts  |
+| 👥 **Delegation**           | 5 key members of Qubic France to represent and coordinate onsite efforts  |
 | 📸 **Media Coverage**       | Event video recap, interviews, and post-event content                       |
 | 🧩 **Merchandising**        | Stickers, flyers, shirts, or QR codes to join Discord / try demos            |
 
@@ -101,6 +101,7 @@ Please consider this stand as Community Wallet.
 These goals align with QUBIC’s objectives of ecosystem growth, stakeholder engagement, and technology adoption.
 
 *All funds go to external paid exposure. No team salaries or overhead.*
+
 
 
 
