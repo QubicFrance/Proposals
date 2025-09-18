@@ -2,14 +2,14 @@
 
 ## Sprint Details
 - **Event Date**: **15th January 2026 –  17th January 2026**  
-- **Funding Request**: **9,9 billion QUBIC** @ $2 270 / billion (~ $22 500 USDT)(all extra cost will be refund CCF)
+- **Funding Request**: **11 billion QUBIC** @ $2 050 / billion (~ $22 500 USDT)(all extra cost will be refund CCF)
 - **Wallet**: `VIOXIFANHGOUACKMYWNBCZQCQMZCLNMDRPTYIAVQZFFEAKNGYFIHDCWCYWMF`
 
 ### Available Options
 | Option | Description |
 | ------ | ----------- |
 | **0** | No, I don’t want |
-| **1** | Yes, approve the budget of **9,9 billion QUBIC** |
+| **1** | Yes, approve the budget of **11 billion QUBIC** |
 
 **Use of Funds**: Paid media exposure only — no internal salaries or operations  
 **Project Team**: **Qubic France**, *Sebit* (project lead)
@@ -17,7 +17,7 @@
 ---
 
 ### TL;DR
-Requesting **9.9 billion QUBIC** (~ $22,5 k; any price difference will be returned to CCF) for a high-impact.
+Requesting **11 billion QUBIC** (~ $22,5 k; any price difference will be returned to CCF) for a high-impact.
 
 # 🚀 Why Qubic Should Attend
 
@@ -76,18 +76,30 @@ Requesting **9.9 billion QUBIC** (~ $22,5 k; any price difference will be return
 | Item | Cost (USD) |
 |------|------------|
 | Cryptoxr Participation | $4680.00 |
-| Reusable by EMEA Stand | $9360.00 |
+| Reusable by EMEA Stand | $8000.00 |
 | Team on site Expenses coverage (hotel, food, travel...) | $2960.00 |
 | Participation on workshop with 1 French Qubic team | $4000.00 |
-| Goodies on site | $1500.00 |
-| 100 million QUBIC Giveaway | SPOT |
+| Goodies on site | $2000.00 |
+|200 million QUBIC Giveaway | SPOT |
 | **Total** | **22500.00 + 100M QUBIC** |
+
+
+### Crypto XR event
+
+This event is dedicated to BTB on friday and BTC on saturday, this event is the only one in France where everybody can access as price for visitors is very low.
+
+### Reusable Stand
+
+Our vision is to have a Qubic stand reusable for all EMEA communities. The stand will be store by a partner freely. It could be ship and setup everywhere in EMEA.
+
+Please consider this stand as Community Wallet.
 
 
 
 These goals align with QUBIC’s objectives of ecosystem growth, stakeholder engagement, and technology adoption.
 
 *All funds go to external paid exposure. No team salaries or overhead.*
+
 
 
 
