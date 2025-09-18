@@ -94,11 +94,13 @@ Our vision is to have a Qubic stand reusable for all EMEA communities. The stand
 
 Please consider this stand as Community Wallet.
 
+[Stand_Event_Vue_2.jpg](https://github.com/QubicFrance/Medias/blob/9361a7a92db55664726bc42ab2a79a2658ccf6f7/Stand%20_Event_Qubic_Vue_1.jpg)
 
 
 These goals align with QUBIC’s objectives of ecosystem growth, stakeholder engagement, and technology adoption.
 
 *All funds go to external paid exposure. No team salaries or overhead.*
+
 
 
 
