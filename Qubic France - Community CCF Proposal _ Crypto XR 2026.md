@@ -75,10 +75,10 @@ Requesting **11 billion QUBIC** (~ $22,5 k; any price difference will be returne
 ### Cost Breakdown
 | Item | Cost (USD) |
 |------|------------|
-| Cryptoxr Participation | $4680.00 |
-| Reusable by EMEA Stand | $8000.00 |
+| Side event co-host (6000 visitors) | $4680.00 |
+| Reusable by EMEA Stand | $6000.00 |
 | Team on site Expenses coverage (hotel, food, travel...) | $2960.00 |
-| Participation on workshop with 1 French Qubic team | $4000.00 |
+| Participation on workshop and speaker with Qubic team | $4000.00 |
 | Goodies on site | $2000.00 |
 |200 million QUBIC Giveaway | SPOT |
 | **Total** | **22500.00 + 100M QUBIC** |
@@ -101,6 +101,7 @@ Please consider this stand as Community Wallet.
 These goals align with QUBIC’s objectives of ecosystem growth, stakeholder engagement, and technology adoption.
 
 *All funds go to external paid exposure. No team salaries or overhead.*
+
 
 
 
