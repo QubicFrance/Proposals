@@ -2,14 +2,14 @@
 
 ## Sprint Details
 - **Event Date**: **15th January 2026 –  17th January 2026**  
-- **Funding Request**: **11 billion QUBIC** @ $2 050 / billion (~ $22 500 USDT)(all extra cost will be refund CCF)
+- **Funding Request**: **14,3 billion QUBIC** @ $1 600 / billion (~ $22 500 USDT)(all extra cost will be refund CCF)
 - **Wallet**: `VIOXIFANHGOUACKMYWNBCZQCQMZCLNMDRPTYIAVQZFFEAKNGYFIHDCWCYWMF`
 
 ### Available Options
 | Option | Description |
 | ------ | ----------- |
 | **0** | No, I don’t want |
-| **1** | Yes, approve the budget of **11 billion QUBIC** |
+| **1** | Yes, approve the budget of **14,3 billion QUBIC** |
 
 **Use of Funds**: Paid media exposure only - no internal salaries or operations  - funds returned to the CCF in case of cancellation or excess funds  
 **Project Team**: **Qubic France**, *Sebit* (project lead)
@@ -18,7 +18,7 @@
 ---
 
 ### TL;DR
-Requesting **11 billion QUBIC** (~ $22,5 k; any price difference will be returned to CCF) for a high-impact.
+Requesting **14,3 billion QUBIC** (~ $22,5 k; any price difference will be returned to CCF) for a high-impact.
 
 # 🚀 Why Qubic Should Attend
 
@@ -78,7 +78,7 @@ We therefore hope to consolidate our year with this event so that we can continu
 ### Cost Breakdown
 | Item | Cost (USD) |
 |------|------------|
-| Co-host side event (800+ people expected)  | $4680.00 |
+| Co-host side event (800+ people expected)  | $5180.00 |
 | Reusable by EMEA Stand | $8000.00 |
 | Team on site Expenses coverage (hotel, food, travel...) | $2960.00 |
 | Participation on workshop (45mn) + speaker (15mn) with Qubic team | $4000.00 |
@@ -104,6 +104,7 @@ Please consider this stand as Community Wallet.
 These goals align with QUBIC’s objectives of ecosystem growth, stakeholder engagement, and technology adoption.
 
 *All funds go to external paid exposure. No team salaries or overhead.*
+
 
 
 
