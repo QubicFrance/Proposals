@@ -2,7 +2,7 @@
 
 ## Sprint Details
 - **Event Date**: **15th January 2026 –  17th January 2026**  
-- **Funding Request**: **14,3 billion QUBIC** @ $1 600 / billion (~ $22 500 USDT)(all extra cost will be refund CCF)
+- **Funding Request**: **14,3 billion QUBIC** @ $1 500 / billion ($22 500 USDT)(all extra cost will be refund CCF)
 - **Wallet**: `VIOXIFANHGOUACKMYWNBCZQCQMZCLNMDRPTYIAVQZFFEAKNGYFIHDCWCYWMF`
 
 ### Available Options
@@ -43,7 +43,7 @@ We therefore hope to consolidate our year with this event so that we can continu
 
 1. **Brand Elevation & Market Leadership**  
    Participating at France’s foremost Web3 & AI event positions Qubic as an accessible, forward-thinking player in the national and European crypto ecosystem.  
-   It amplifies our visibility among key stakeholders—from institutional partners to grassroots enthusiasts.
+   It amplifies our visibility among key stakeholders from institutional partners to grassroots enthusiasts.
 
 2. **Targeted Networking & Business Development**  
    CryptoXR’s dual B2B and B2C format enables us to engage with investors, exchanges, infrastructure providers, and crypto-curious individuals—maximizing impact across our audience spectrum.
@@ -84,12 +84,9 @@ We therefore hope to consolidate our year with this event so that we can continu
 | Participation on workshop (45mn) + speaker (15mn) with Qubic team | $4000.00 |
 | Goodies on site | $2000.00 |
 |200 million QUBIC Giveaway | SPOT |
-| **Total** | **22500.00 + 100M QUBIC** |
+| **Total** | **22500.00** |
 
-
-### Crypto XR event
-
-This event is dedicated to BTB on friday and BTC on saturday, this event is the only one in France where everybody can access as price for visitors is very low.
+ 
 
 ### Reusable Stand
 
@@ -100,10 +97,96 @@ Please consider this stand as Community Wallet.
 ![stand1](https://github.com/QubicFrance/Medias/blob/9361a7a92db55664726bc42ab2a79a2658ccf6f7/Stand%20_Event_Qubic_Vue_1.jpg)
 ![stand2](https://github.com/QubicFrance/Medias/blob/9361a7a92db55664726bc42ab2a79a2658ccf6f7/Stand_Event_Vue_2.jpg)
 
+# KPI CryptoXR 2026 - Qubic France
+
+## Visibility & Exposure Metrics
+
+| KPI | Target | Measurement Method |
+|-----|--------|--------------------|
+| Booth Visitors | 1,500+ visitors | Manual counting + QR codes scanned + goodies |
+| Leads Generated | 500+ qualified contacts | Forms, card exchanges, registrations |
+|Media Impressions | 300,000+ views | Analytics from videos, articles, social posts |
+| Press Mentions | 5+ articles/8+ interviews | Media monitoring |
+
+## Engagement & Interaction
+
+| KPI | Target | Measurement Method |
+|-----|--------|--------------------|
+| Workshop Attendees | 100+ people |Counting during 45-min workshop |
+| Presentation Audience | 300+ people | Counting during 15-min speaker slot |
+| Merchandise Distributed | 500+ items | Before/after inventory |
+
+## Community Growth
+
+| KPI | Target | Measurement Method |
+|-----|--------|--------------------|
+| New Discord Members | 1,000+ via QR codes | Discord analytics + goodies |
+| New Ambassadors | 10+ recruited + 200~500 community members | Ambassador database + goodies |
+| Social Media Followers | +1,000 Qubic +1.000 Qubic France | Platform analytics |
+| Newsletter | 100k (cointribune + CryptoXR) | Email analytics |
+
+## ROI & Conversion
+
+| KPI | Target | Measurement Method |
+|-----|--------|--------------------|
+| QUBIC Distributed | 200M QUBIC giveaway | Distribution tracking |
+| Partnerships Established | 10+ new partners | Commercial follow-up + KOL |
+| Devs Interest | 3+ | Community SC + Ecosystem RFP |
+
+## Side Event (Co-hosted)
+
+| KPI | Target | Measurement Method |
+|-----|--------|--------------------|
+| Side Event Participants | 800+ people | Entry counting |
+| Qualified Networking | 100+ scheduled meetings | Participant agenda |
+| Partners Mobilized | School + Mining + Agency + Media (Cointribune) | Participation confirmation + article |
+
+## Post-Event Metrics
+
+| KPI | Target | Measurement Method |
+|-----|--------|--------------------|
+| Event Videos | 100,000+ views/video | YouTube/social medias |
+| User-Generated Content | 50+ community posts | Hashtag monitoring |
+| Business Pipeline | $100K+ opportunities | tracking/contact |
+| Stand Reusability | 3+ EMEA events 2026 | Event planning schedule |
+
+## Strategic Objectives
+
+| Objective | Metric | Target |
+|-----------|--------|--------|
+| French Market Leadership | Share of voice vs competitors | Top 3 mentions |
+| Developer Ecosystem | Engaged Epitech/agency developers | 50+ developers (school) + agency |
+| Technology Adoption | demos | 200+ people reached |
+| European Presence | EMEA media coverage | 5+ countries covered |
+| Community Maturity | Networking | 3 new big and low cost event in 2026 + small events via ambassadors |
+| Country Hype | KOL + Media | 10+ new partnership (20 videos) + 2 new media in contact for free (2 articles) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Budget vs Performance
+Allocated Budget: 11 billion QUBIC (~$22,500 USD)
+Expected ROI:
+Cost per impression: < $0.05
+Cost per qualified lead: < $4.5
+Return on investment: 300%+ in generated value
+Financial Tracking: All surplus funds will be returned to CCF
+
 
 These goals align with QUBIC’s objectives of ecosystem growth, stakeholder engagement, and technology adoption.
 
 *All funds go to external paid exposure. No team salaries or overhead.*
+
 
 
 
