@@ -11,9 +11,10 @@
 | **0** | No, I don’t want |
 | **1** | Yes, approve the budget of **11 billion QUBIC** |
 
-**Use of Funds**: Paid media exposure only — no internal salaries or operations  
+**Use of Funds**: Paid media exposure only - no internal salaries or operations  - funds returned to the CCF in case of cancellation or excess funds  
 **Project Team**: **Qubic France**, *Sebit* (project lead)
 
+(20% discount applied on the entire order if payment is made before October 15, 2025)
 ---
 
 ### TL;DR
@@ -25,13 +26,16 @@ Requesting **11 billion QUBIC** (~ $22,5 k; any price difference will be returne
   CryptoXR gathered over 6,800 attendees in 2025. Qubic’s presence would strengthen its branding in one of the most crypto-active regions in Europe.
 
 - **Direct Engagement with Target Audiences**  
-  The event splits between B2B (Day 1) and B2C (Day 2). We can connect with investors, exchanges, developers, and community members.
+  The event splits between B2B (Day 1) and B2C (Day 2). We can connect with investors, exchanges, developers, and community members. Crypto XR is the most anticipated event of the year in France and is seen as the place to be for networking, with all French KOLs and most European media in attendance.
 
 - **Workshops & Speaker Opportunities**  
-  Qubic can propose a live demo or talk around its unique architecture (*Aigarth, Computors, Useful PoW*).
+  Qubic can propose a live demo or talk around its unique architecture (*Aigarth, Computors, Useful PoW*). A 15-minute slot as a speaker is also reserved on the main stage during a time slot with a good audience.
 
 - **Qubic France Community Activation**  
   We can mobilize our local contributors, attract new ambassadors, and distribute educational and promotional materials.
+
+We have been working on this event since early 2025, notably through partnerships with three media outlets, certain KOLs (Cryptolyze, Befresh, CryptoPourTous, Les Rois du Bitcoin, etc.), as well as a partnership negotiated with Epitech, one of the largest developer schools in France, which we were able to contact thanks to Rayan (Qulang).
+We therefore hope to consolidate our year with this event so that we can continue to pursue our goals in 2026.
 
 ---
 
@@ -55,8 +59,7 @@ Requesting **11 billion QUBIC** (~ $22,5 k; any price difference will be returne
    CryptoXR offers built-in marketing channels to extend Qubic’s reach through event videos, interviews, and promotional content.
 
 6. **ROI Through Engagement & Conversion**  
-   Affordable packages and immersive formats ensure impactful exposure and strong return on investment.
-
+   Affordable packages and immersive formats ensure impactful exposure and strong return on investment already made thanks to a low-cost booth that can be reused for future events in France, We will co-organize a side event with a school, a mining company, and a French marketing agency. 
 ---
 
 > **“Participating in CryptoXR 2026 offers Qubic a low-cost, high-impact opportunity to elevate our brand in the French and European crypto ecosystem. Through strategically placed engagement—booth presence, live demo, workshop, and community activation—we can generate high-value leads, deepen community bonds, attract ambassadors, and secure lasting visibility via media and event coverage.”**
@@ -67,18 +70,18 @@ Requesting **11 billion QUBIC** (~ $22,5 k; any price difference will be returne
 |-----------------------------|-----------------------------------------------------------------------------|
 | 🎪 **Booth / Stand**        | A branded Qubic space to onboard, demo, and discuss. The stand will reusable for differents events in Europe with a short cost than the first one.                        |
 | 🎤 **Speaker Slot / Workshop** | Presentation of the Qubic ecosystem, roadmap, or Aigarth integration        |
-| 👥 **Delegation**           | 5 key members of Qubic France to represent and coordinate onsite efforts  |
-| 📸 **Media Coverage**       | Event video recap, interviews, and post-event content                       |
+| 👥 **Delegation**           | 5 key members of Qubic France to represent and coordinate onsite efforts + 1 Qubic Staff |
+| 📸 **Media Coverage**       | Event video recap, interviews, and post-event content (like RaiseHack)                       |
 | 🧩 **Merchandising**        | Stickers, flyers, shirts, or QR codes to join Discord / try demos            |
 
 
 ### Cost Breakdown
 | Item | Cost (USD) |
 |------|------------|
-| Side event co-host (8000 visitors) | $4680.00 |
-| Reusable by EMEA Stand | $6000.00 |
+| Co-host side event (800+ people expected)  | $4680.00 |
+| Reusable by EMEA Stand | $8000.00 |
 | Team on site Expenses coverage (hotel, food, travel...) | $2960.00 |
-| Participation on workshop and speaker | $4000.00 |
+| Participation on workshop (45mn) + speaker (15mn) with Qubic team | $4000.00 |
 | Goodies on site | $2000.00 |
 |200 million QUBIC Giveaway | SPOT |
 | **Total** | **22500.00 + 100M QUBIC** |
@@ -101,6 +104,7 @@ Please consider this stand as Community Wallet.
 These goals align with QUBIC’s objectives of ecosystem growth, stakeholder engagement, and technology adoption.
 
 *All funds go to external paid exposure. No team salaries or overhead.*
+
 
 
 
