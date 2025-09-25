@@ -167,11 +167,11 @@ Please consider this stand as Community Wallet.
 **Allocated Budget**: 14,3 billion QUBIC ($22,500 USD)
 
 **Expected ROI**:
-    Cost per impression: < $0.05
+  - Cost per impression: < $0.05
     
-    Cost per qualified lead: < $4.5
+  - Cost per qualified lead: < $4.5
     
-    Return on investment: 300%+ in generated value
+  - Return on investment: 300%+ in generated value
 
 **Financial Tracking**: All surplus funds will be returned to CCF
 
@@ -179,6 +179,7 @@ Please consider this stand as Community Wallet.
 These goals align with QUBIC’s objectives of ecosystem growth, stakeholder engagement, and technology adoption.
 
 *All funds go to external paid exposure. No team salaries or overhead.*
+
 
 
 
