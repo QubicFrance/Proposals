@@ -3,7 +3,7 @@
 ## Sprint Details
 - **Event Date**: **15th January 2026 –  17th January 2026**  
 - **Funding Request**: **14,3 billion QUBIC** @ $1 500 / billion ($22 500 USDT)(all extra cost will be refund CCF)
-- **Wallet**: `VIOXIFANHGOUACKMYWNBCZQCQMZCLNMDRPTYIAVQZFFEAKNGYFIHDCWCYWMF`
+- **Wallet**: `PQXFNXBUHNSLEDQNALBCSTQKJNHBPWOQLGSDXQPIMAQQJAZSWEHLOWKAYIFB`
 
 ### Available Options
 | Option | Description |
@@ -186,7 +186,7 @@ These goals align with QUBIC’s objectives of ecosystem growth, stakeholder eng
 ## 衝刺詳情
 - **活動日期**：**2026年1月15日 –  2026年1月17日**  
 - **資金申請**：**143億 QUBIC** @ $1 500 / 十億 ($22 500 USDT)（所有額外費用將退還給CCF）
-- **錢包地址**：`VIOXIFANHGOUACKMYWNBCZQCQMZCLNMDRPTYIAVQZFFEAKNGYFIHDCWCYWMF`
+- **錢包地址**：`PQXFNXBUHNSLEDQNALBCSTQKJNHBPWOQLGSDXQPIMAQQJAZSWEHLOWKAYIFB`
 
 ### 可選選項
 | 選項 | 描述 |
@@ -362,6 +362,7 @@ These goals align with QUBIC’s objectives of ecosystem growth, stakeholder eng
 這些目標與QUBIC的生態系統成長、利益相關者參與和技術採用目標一致。
 
 *所有資金用於外部付費曝光。無團隊薪水或管理費用。*
+
 
 
 
