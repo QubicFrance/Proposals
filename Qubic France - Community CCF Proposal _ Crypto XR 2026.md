@@ -1,4 +1,4 @@
-# Qubic France – Community CCF Proposal: **Crypto XR 2026**
+# Qubic France : **Crypto XR 2026 Minimal Requirement**
 
 ## Sprint Details
 - **Event Date**: **15th January 2026 –  17th January 2026**  
@@ -356,6 +356,7 @@ These goals align with QUBIC’s objectives of ecosystem growth, stakeholder eng
 這些目標與QUBIC的生態系統成長、利益相關者參與和技術採用目標一致。
 
 *所有資金用於外部付費曝光。無團隊薪水或管理費用。*
+
 
 
 
