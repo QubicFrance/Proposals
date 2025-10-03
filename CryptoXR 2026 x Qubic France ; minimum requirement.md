@@ -2,14 +2,14 @@
 
 ## Sprint Details
 - **Event Date**: **15th January 2026 –  17th January 2026**  
-- **Funding Request**: **9,3 billion QUBIC** @ $1 700 / billion ($16 050 USDT)(all extra cost will be refund CCF)
+- **Funding Request**: **9,2 billion QUBIC** @ $1 750 / billion ($16 050 USDT)(all extra cost will be refund CCF)
 - **Wallet**: `PQXFNXBUHNSLEDQNALBCSTQKJNHBPWOQLGSDXQPIMAQQJAZSWEHLOWKAYIFB`
 
 ### Available Options
 | Option | Description |
 | ------ | ----------- |
 | **0** | No, I don’t want |
-| **1** | Yes, approve the budget of **9,3 billion QUBIC** |
+| **1** | Yes, approve the budget of **9,2 billion QUBIC** |
 
 **Use of Funds**: Paid media exposure only - no internal salaries or operations  - funds returned to the CCF in case of cancellation or excess funds  
 **Project Team**: **Qubic France**, *Sebit* (project lead)
@@ -18,7 +18,7 @@
 ---
 
 ### TL;DR
-Requesting **9,3 billion QUBIC** (~ $22,5 k; any price difference will be returned to CCF) for a high-impact.
+Requesting **9,2 billion QUBIC** (~ $16,05 k; any price difference will be returned to CCF) for a high-impact.
 
 # 🚀 Why Qubic Should Attend
 
@@ -161,7 +161,7 @@ Please consider this stand as Community Wallet.
 
 ## Budget vs Performance
 
-**Allocated Budget**: 9,3 billion QUBIC ($16,050 USD)
+**Allocated Budget**: 9,2 billion QUBIC ($16,050 USD)
 
 **Expected ROI**:
   - Cost per impression: < $0.05
@@ -182,14 +182,14 @@ These goals align with QUBIC’s objectives of ecosystem growth, stakeholder eng
 
 ## 衝刺詳情
 - **活動日期**：**2026年1月15日 –  2026年1月17日**  
-- **資金申請**：**9.3億 QUBIC** @ $1 700 / 十億 ($16 050 USDT)（所有額外費用將退還給CCF）
+- **資金申請**：**9.2億 QUBIC** @ $1 750 / 十億 ($16 050 USDT)（所有額外費用將退還給CCF）
 - **錢包地址**：`PQXFNXBUHNSLEDQNALBCSTQKJNHBPWOQLGSDXQPIMAQQJAZSWEHLOWKAYIFB`
 
 ### 可選選項
 | 選項 | 描述 |
 | ------ | ----------- |
 | **0** | 否，我不希望 |
-| **1** | 是，批准**9.3億 QUBIC**的預算 |
+| **1** | 是，批准**9.2億 QUBIC**的預算 |
 
 **資金用途**：僅用於付費媒體曝光 - 無內部薪水或營運費用 - 如取消或有剩餘資金將退還給CCF  
 **專案團隊**：**Qubic France**，*Sebit*（專案負責人）
@@ -198,7 +198,7 @@ These goals align with QUBIC’s objectives of ecosystem growth, stakeholder eng
 ---
 
 ### TL;DR
-申請**9.3億 QUBIC**（約 $16,05 k；任何價格差異將退還給CCF）用於高影響力項目。
+申請**9.2億 QUBIC**（約 $16,05 k；任何價格差異將退還給CCF）用於高影響力項目。
 
 # 🚀 為什麼Qubic應該參加
 
@@ -356,6 +356,7 @@ These goals align with QUBIC’s objectives of ecosystem growth, stakeholder eng
 這些目標與QUBIC的生態系統成長、利益相關者參與和技術採用目標一致。
 
 *所有資金用於外部付費曝光。無團隊薪水或管理費用。*
+
 
 
 
