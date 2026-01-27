@@ -69,7 +69,7 @@ With **zero ticket cost**, this proposal focuses solely on covering **travel and
 | Role | Members | Responsibilities |
 |---|---|---|
 | Lead | Collman | Technical demos, protocol explanations |
-| Business Development | Sebbit27, Raziah | Partnerships & investor relations |
+| Business Development | Sebit27, Raziah | Partnerships & investor relations |
 | Community Representatives | Ering, Lisa, Darkendrahl | Community & technical engagement |
 | Content Creation | Collman (Qubic Inside), Lisa (Qubic France X/Insta) | Social media & event coverage |
 | Operations Lead | Darkhendral | Logistics & scheduling |
