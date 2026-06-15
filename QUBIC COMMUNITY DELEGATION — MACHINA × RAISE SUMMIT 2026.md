@@ -153,7 +153,7 @@ Qubic's Useful Proof of Work is not a peripheral concept for these audiences - i
 
  *Two of Europe's top AI events. One trip. Three days. $3,500.*
 
- RAISE Summit is the fastest-growing AI conference in Europe — perhaps in history. MACHINA is Europe's leading physical AI and robotics event. Together, they represent the most concentrated density of AI decision-makers, investors, media and builders on the continent.
+ RAISE Summit is the fastest-growing AI conference in Europe - perhaps in history. MACHINA is Europe's leading physical AI and robotics event. Together, they represent the most concentrated density of AI decision-makers, investors, media and builders on the continent.
 
  *For a protocol whose core thesis is redirecting compute toward useful AI work, these are not optional rooms. They are the rooms where Qubic's story must be told.*
 
