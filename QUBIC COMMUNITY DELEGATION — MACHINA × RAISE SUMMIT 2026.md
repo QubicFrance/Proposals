@@ -12,7 +12,7 @@
 
 ## Executive Summary
 
-RAISE Summit is Europe's largest and fastest-growing AI conference — described by Eric Schmidt as *"the fastest-growing AI Tech conference in Europe, and maybe in history."* MACHINA is Europe's #1 physical AI & robotics event. Together, they are the two most strategic AI stages on the continent.
+RAISE Summit is Europe's largest and fastest-growing AI conference - described by Eric Schmidt as *"the fastest-growing AI Tech conference in Europe, and maybe in history."* MACHINA is Europe's #1 physical AI & robotics event. Together, they are the two most strategic AI stages on the continent.
 
 A **4-person Qubic delegation** will attend both events back-to-back in Paris on July 7–9, 2026: one trip, two flagship events, three full days of direct engagement with **9,000+ AI leaders**, robotics founders, enterprise executives, investors and media partners.
 
@@ -45,16 +45,16 @@ Qubic's Useful Proof of Work redirects mining energy toward real AI training. Th
 
 ## Why This Matters for Qubic
 
-Qubic's Useful Proof of Work is not a peripheral concept for these audiences — it is a direct answer to the questions dominating both agendas: how to source the compute needed for AI at scale, and how to do it efficiently.
+Qubic's Useful Proof of Work is not a peripheral concept for these audiences - it is a direct answer to the questions dominating both agendas: how to source the compute needed for AI at scale, and how to do it efficiently.
 
 | Strategic Angle | Relevance at RAISE & MACHINA |
 |---|---|
-| **AI-Native Audience** | uPoW, Aigarth & Neuraxon resonate with AI builders and infrastructure providers — not just crypto audiences |
-| **Compute & Energy Nexus** | RAISE 2026 features dedicated tracks on compute-as-capital and the energy/compute challenge — precisely where uPoW fits |
-| **Robotics & Physical AI** | MACHINA brings together the labs training the next generation of embodied intelligence — a direct use case for Qubic's useful compute |
-| **Enterprise & Investor Access** | 80% of RAISE attendees are executives or founders — the highest-density decision-maker environment in European AI |
+| **AI-Native Audience** | uPoW, Aigarth & Neuraxon resonate with AI builders and infrastructure providers - not just crypto audiences |
+| **Compute & Energy Nexus** | RAISE 2026 features dedicated tracks on compute-as-capital and the energy/compute challenge - precisely where uPoW fits |
+| **Robotics & Physical AI** | MACHINA brings together the labs training the next generation of embodied intelligence - a direct use case for Qubic's useful compute |
+| **Enterprise & Investor Access** | 80% of RAISE attendees are executives or founders - the highest-density decision-maker environment in European AI |
 | **Beyond Crypto Circles** | Builds on Paris Blockchain Week 2026 presence and projects Qubic into the broader AI economy |
-| **Media Amplification** | 350+ media partners on site — structured interactions can generate significant earned coverage |
+| **Media Amplification** | 350+ media partners on site - structured interactions can generate significant earned coverage |
 
 ---
 
@@ -79,20 +79,20 @@ Qubic's Useful Proof of Work is not a peripheral concept for these audiences —
 
 ## 3-Day Mission Plan
 
-### Day 1 — July 7 · MACHINA · Station F
+### Day 1 - July 7 · MACHINA · Station F
 
 - Attend physical AI keynotes and on-floor robot showcases
 - Meet robotics founders and AI lab representatives (Boston Dynamics, Google DeepMind, 1X, Apptronik…)
 - Position Qubic's useful compute thesis within the embodied AI conversation
 - Network with investors focused on deep tech and physical AI
 
-### Day 2 — July 8 · RAISE · Carrousel du Louvre
+### Day 2 - July 8 · RAISE · Carrousel du Louvre
 
 - Main stage keynotes: Foundations & Frontiers tracks
 - Scheduled investor & partner meetings via the RAISE networking app
 - Evening networking events and RAISE Week side activations
 
-### Day 3 — July 9 · RAISE · Carrousel du Louvre
+### Day 3 - July 9 · RAISE · Carrousel du Louvre
 
 - Technical sessions: compute, infrastructure, energy nexus
 - Follow-up meetings and warm introductions
@@ -120,7 +120,7 @@ Qubic's Useful Proof of Work is not a peripheral concept for these audiences —
 | Contingency | Miscellaneous reserve | $300 |
 | **TOTAL** | **All costs included — no salaries** | **$3,250** |
 
- **Cost Efficiency Benchmark:** Public MACHINA × RAISE PRO passes: €2,400/person = €9,600 for 4 people — not included in this budget. This proposal covers travel & accommodation only: ~$875 per delegate for 3 full event days at Europe's two premier AI events.
+ **Cost Efficiency Benchmark:** Public MACHINA × RAISE PRO passes: €2,400/person = €9,600 for 4 people - not included in this budget. This proposal covers travel & accommodation only: ~$875 per delegate for 3 full event days at Europe's two premier AI events.
 
 ---
 
@@ -157,7 +157,7 @@ Qubic's Useful Proof of Work is not a peripheral concept for these audiences —
 
  *For a protocol whose core thesis is redirecting compute toward useful AI work, these are not optional rooms. They are the rooms where Qubic's story must be told.*
 
-This delegation delivers maximum strategic exposure at minimal cost — no salaries, no overhead, just direct presence where it matters most.
+This delegation delivers maximum strategic exposure at minimal cost - no salaries, no overhead, just direct presence where it matters most.
 
 ---
 
