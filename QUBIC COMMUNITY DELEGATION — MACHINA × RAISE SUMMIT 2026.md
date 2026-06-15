@@ -16,9 +16,9 @@ RAISE Summit is Europe's largest and fastest-growing AI conference - described b
 
 A **4-person Qubic delegation** will attend both events back-to-back in Paris on July 7–9, 2026: one trip, two flagship events, three full days of direct engagement with **9,000+ AI leaders**, robotics founders, enterprise executives, investors and media partners.
 
-Qubic's Useful Proof of Work redirects mining energy toward real AI training. These are not adjacent venues — they are the exact rooms where Qubic's thesis belongs.
+Qubic's Useful Proof of Work redirects mining energy toward real AI training. These are not adjacent venues - they are the exact rooms where Qubic's thesis belongs.
 
- **Total Budget: $3,250 USD** (travel & accommodation only — no salaries)
+ **Total Budget: $3,250 USD** (travel & accommodation only - no salaries)
  ~$800 per delegate · 3 full event days · 2 flagship European AI events covered in one trip
 
 ---
