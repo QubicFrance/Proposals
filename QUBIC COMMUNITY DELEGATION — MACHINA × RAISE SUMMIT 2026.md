@@ -114,10 +114,10 @@ Qubic's Useful Proof of Work is not a peripheral concept for these audiences - i
 | Event Tickets | Secured via existing contacts (+1 pass for Qubic team member included) = 2800$ x 5 | **$0** |
 | Accommodation | 4 nights × 4 people | $1,500 |
 | Transportation | Round-trip travel for 4 delegates | $750 |
-| Meals | $25 × 4 days × 4 people | $500 |
+| Meals | $25 × 4 days × 4 people | $400 |
 | Event Materials | Canvas bags, brochures, business cards, stickers, branded goodies | $200 |
 | Press | Two secured articles covering our attendance | **$0** |
-| Contingency | Miscellaneous reserve | $300 |
+| Contingency | Miscellaneous reserve | $400 |
 | **TOTAL** | **All costs included — no salaries** | **$3,250** |
 
  **Cost Efficiency Benchmark:** Public MACHINA × RAISE PRO passes: €2,400/person = €9,600 for 4 people - not included in this budget. This proposal covers travel & accommodation only: ~$875 per delegate for 3 full event days at Europe's two premier AI events.
