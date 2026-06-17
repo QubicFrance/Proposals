@@ -2,7 +2,7 @@
 
 **Paris, France · July 7–9, 2026**
 
- **Budget Requested: $3,500 USD**
+ **Budget Requested: $3,250 USD**
 
  Wallet: `IAJUCZBZMHWBHEESHUYTAYCWEAYBZAVZBORFERJNEEKJRAYFPDVEUNEFQAZM`
 
@@ -151,7 +151,7 @@ Qubic's Useful Proof of Work is not a peripheral concept for these audiences - i
 
 ## Conclusion & Recommendation
 
- *Two of Europe's top AI events. One trip. Three days. $3,500.*
+ *Two of Europe's top AI events. One trip. Three days. $3,250.*
 
  RAISE Summit is the fastest-growing AI conference in Europe - perhaps in history. MACHINA is Europe's leading physical AI and robotics event. Together, they represent the most concentrated density of AI decision-makers, investors, media and builders on the continent.
 
