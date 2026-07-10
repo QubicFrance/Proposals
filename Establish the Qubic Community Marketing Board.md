@@ -14,7 +14,9 @@ Qubic is moving from a stalled CMO search to a lightweight marketing workgroup o
 
 Qubic's current status leads us to believe that we need to significantly reduce the budget for the bear market. The goal is to keep things running as long as possible by automating the basic tasks necessary for smooth communication, all at the lowest possible cost.
 
-The workgroup is a bridge, not a permanent replacement for dedicated leadership. **During its mandate, the board will also actively search for a suitable CMO if market allow it to eventually take the baton on marketing.**![][image1]
+The workgroup is a bridge, not a permanent replacement for dedicated leadership. **During its mandate, the board will also actively search for a suitable CMO if market allow it to eventually take the baton on marketing.**!
+
+![P1](https://raw.githubusercontent.com/QubicFrance/Medias/refs/heads/main/p1.png)
 
 # **What the board is**
 
