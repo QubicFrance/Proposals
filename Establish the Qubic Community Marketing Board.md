@@ -24,7 +24,7 @@ A **binding decision-making body**, not an advisory one. On matters within its m
 
 The board deliberately mixes two kinds of members: operators, who bring first-hand knowledge of the work, and independent community members, who hold the governance and keep oversight honest. It does not do the marketing, it governs it: quality, strategy, and decisions that should be voted. The coordinator (operators)  manages the topics and drives the communication.
 
-![][image2]
+![P2](https://raw.githubusercontent.com/QubicFrance/Medias/refs/heads/main/p2.png)
 
 # **Mandate and powers**
 
