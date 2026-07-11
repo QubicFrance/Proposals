@@ -137,7 +137,7 @@ The rollout ties this framework vote to operator selection and the funding (CCF)
 
 * The 5 most-voted candidates are put forward for computor attribution.
 
-* **Sat 19 Jul: the top 4 candidates are put to the computors for final assignment.**
+* **Sat 19 Jul: the top 5 candidates are put to the computors for final assignment.**
 
 **Phase 3 · Sat 19 Jul → Wed 22 Jul — Computor final assignment**
 
@@ -147,7 +147,7 @@ The rollout ties this framework vote to operator selection and the funding (CCF)
 
 * Quorum required: 60% participation among eligible computors.
 
-* **Wed 22 Jul: board confirmed (4 independents \+ 3 operators ex officio) — roster published publicly.**
+* **Wed 22 Jul: board confirmed (5 independents \+ 3 operators ex officio) — roster published publicly.**
 
 **Phase 4 · Wed 22 Jul → Wed 29 Jul — Funding (CCF) proposal**
 
