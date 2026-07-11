@@ -2,7 +2,7 @@
 
 # **Proposal**
 
-Establish a standing **Qubic Community Marketing Board**, a group of 3 community members with binding authority to govern the marketing budget and oversee the marketing workgroup, with an independent majority and strict conflict-of-interest rules.
+Establish a standing **Qubic Community Marketing Board**, a group of 5 community members with binding authority to govern the marketing budget and oversee the marketing workgroup, with an independent majority and strict conflict-of-interest rules.
 
 **Option 0:** no — do not establish the Marketing Board
 
@@ -72,7 +72,7 @@ The board has **5 seats** — adjustable by the community.
 
 # **How the independent members are selected**
 
-The 3 operator seats are filled ex officio by whoever holds those workgroup roles. The 3 independent seats are filled through an open, community-driven process:
+The 5 operator seats are filled ex officio by whoever holds those workgroup roles. The 5 independent seats are filled through an open, community-driven process:
 
 1. **Open call for candidates** — anyone may apply; a brief bio is required.
 
@@ -163,7 +163,7 @@ The rollout ties this framework vote to operator selection and the funding (CCF)
 
 **Phase 5 · Wed 29 Jul → Fri 1 Aug — Operator onboarding & board starts**
 
-* 22–29 Jul: board ratifies the 3 operator seats and pay within the approved CCF envelope (operators recused).
+* 22–29 Jul: board ratifies the 5 operator seats and pay within the approved CCF envelope (operators recused).
 
 * **Wed 29 Jul: final acceptance announced. Fri 1 Aug: board starts functions.**
 
