@@ -56,11 +56,11 @@ Within a total marketing envelope approved by the community, the board has bindi
 
 # **Composition**
 
-The board has **3 seats** — adjustable by the community.
+The board has **5 seats** — adjustable by the community.
 
 | Seat type | Seats | Who |
 | :---- | :---: | :---- |
-| **Independent** | 3 | Community members not paid from the marketing budget |
+| **Independent** | 5 | Community members not paid from the marketing budget |
 
 * Members serve as individuals, in the interest of the whole ecosystem, not as representatives of any pod, region, or faction.
 
@@ -111,6 +111,8 @@ Clean separation of powers: The computors and the community decide how much, the
 
 * The board is granted access to all relevant documentation — retainer details, invoices, tool subscriptions, and transaction history — and publishes summaries.
 
+* All proposals from the marketing team must be approved by the board before the CCF vote
+
 # **Rollout timeline**
 
 The rollout ties this framework vote to operator selection and the funding (CCF) proposal. Indicative dates:
@@ -133,13 +135,13 @@ The rollout ties this framework vote to operator selection and the funding (CCF)
 
 * Community votes on all candidates via community.voting.qubic.org; voting open 15–19 Jul.
 
-* The 4 most-voted candidates are put forward for computor attribution.
+* The 5 most-voted candidates are put forward for computor attribution.
 
 * **Sat 19 Jul: the top 4 candidates are put to the computors for final assignment.**
 
 **Phase 3 · Sat 19 Jul → Wed 22 Jul — Computor final assignment**
 
-* Computors have final say: they assign the 4 independent seats from the top-4 most-voted candidates.
+* Computors have final say: they assign the 5 independent seats from the top-4 most-voted candidates.
 
 * Conflict-of-interest check: operator candidates recuse from their own vote.
 
